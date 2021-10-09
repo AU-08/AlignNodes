@@ -7,7 +7,7 @@ Installation
 
 1. Download ZIPからフォルダをダウンロードします。
 
-2. ZIPファイルを解凍し以下の通りに配置します。pythonフォルダがない場合は作成してください。   
+2. ZIPファイルを解凍し以下の通りに配置します。pythonフォルダがない場合はフォルダごとコピペしてください。    
 `C: > Users > .nuke > python > ezAlignNodes.py`  
 
 3. init.pyに以下のコマンドを追加します。(3,4のコマンドはダウンロードしたinit.py, menu.pyからコピペして構いません)  
