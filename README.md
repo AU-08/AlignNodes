@@ -1,9 +1,8 @@
-ezAlignNodes
-==========================
+# ezAlignNodes
+
 選択したノードを右揃え、左揃え、中央揃え...と整理するスクリプトです。
 
-Installation
-==========================
+## Installation
 
 1. Download ZIPからフォルダをダウンロードします。
 
@@ -32,8 +31,7 @@ nuke.menu('Nodes').addCommand('Align Nodes / alighn on center', ezAlignNodes.ali
 5. Nukeを再起動し、ツールバーにボタンが追加されていれば完了です。
 
 
-How to use
-==========================
+## How to use
 
 1. 整理したいノードを選択します。  
 
